@@ -1,4 +1,4 @@
-# MSMM_xBIT
+# MSSM_xBIT
 ML xBIT apply to the MSSM
 
 Runing with last versions:
